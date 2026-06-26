@@ -1,25 +1,5 @@
 # Online Grocery Shop
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
-## SCREENSHOTS
-### Home Page
-<p>
-<img src="https://dochub.com/sumitkumar1503/Zxz7E3jVB0kN7dDRlWd2G8/home-jpg?dt=sSzKzAC9YTjp1a-sy_-s"/>
-</p>
 
-### Order Product
-<p>
-<img src="https://dochub.com/sumitkumar1503/YpDBonNVrDMorJGRMX93r7/order-png?dt=W6D5XXDxjd_bcwhSFz_4"/>
-</p>
-
-### Product
-<p>
-<img src="https://dochub.com/sumitkumar1503/nO1YzvAwA1mLY8Qw6L4WP2/product-png?dt=ooyZRUbVHKn7dayv7XTm"/>
-</p>
-
-### Category
-<p>
-<img src="https://dochub.com/sumitkumar1503/Dbd3xkWVeAvM05XV49AYlz/category-png?dt=Seg6zzLFzKHcGmSZAsJM"/>
 </p>
 
 ---
